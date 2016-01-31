@@ -1,7 +1,7 @@
 rsync
 =====
 
-[![](https://badge.imagelayers.io/brimstone/rsync:latest.svg)](https://imagelayers.io/?images=brimstone/rsync:latest 'Get your own badge on imagelayers.io')
+[![](https://badge.imagelayers.io/brimstone/rsync:3.1.2.svg)](https://imagelayers.io/?images=brimstone/rsync:3.1.2 'Get your own badge on imagelayers.io')
 
 This is a simple container running just an rsync daemon
 
